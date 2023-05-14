@@ -1,5 +1,3 @@
-🐣 Please follow me for new updates https://twitter.com/camenduru <br />
-🔥 Please join our discord server https://discord.gg/k5BwmmvJJU
 
 # Push to 🤗 Hugging Face
 
@@ -7,6 +5,6 @@
 
 To install it, clone the repo into the `extensions` directory and restart the web ui:
 
-`git clone https://github.com/camenduru/stable-diffusion-webui-huggingface`
+`git clone https://github.com/eugenik20/webui-huggingface`
 
 `pip install huggingface-hub==0.11.1`
